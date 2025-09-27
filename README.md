@@ -106,7 +106,66 @@ I am a Front-End Developer with experience in Back-End management, drawn to the 
   width="70px"
   height="70px"
 />
-
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg"
+  alt="npm icon"
+  width="70px"
+  height="70px"
+/>
 
 
 
